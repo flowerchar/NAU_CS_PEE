@@ -70,33 +70,33 @@
 ### 2.2 答案解析
 
 - [19](datastructure/answer/19.pdf)
-- [20](.\datastructure\answer\20.pdf)
-- [21](.\datastructure\answer\21.pdf)
-- [22](.\datastructure\answer\22.pdf)
+- [20](datastructure/answer/20.pdf)
+- [21](datastructure/answer/21.pdf)
+- [22](datastructure/answer/22.pdf)
 
 ### 2.3 笔记
 
-- [南审数据结构定义](datastructure\notes\南审数据结构定义.pdf)
-- [平均移动元素](datastructure\notes\平均移动元素(1).pdf)
-- [知识点](datastructure\notes\知识点(1).pdf)
+- [南审数据结构定义](datastructure/notes/南审数据结构定义.pdf)
+- [平均移动元素](datastructure/note/平均移动元素(1).pdf)
+- [知识点](datastructure/notes/知识点(1).pdf)
 
 ### 2.4 PDF
 
-- [电子版教材](datastructure\pdf\811电子版教材.pdf)
-- [复习笔记](datastructure\pdf\数据结构复习笔记.pdf)
-- [思维导图](datastructure\pdf\数据结构思维导图总.pdf)
+- [电子版教材](datastructure/pdf/811电子版教材.pdf)
+- [复习笔记](datastructure/pdf/数据结构复习笔记.pdf)
+- [思维导图](datastructure/pdf/数据结构思维导图总.pdf)
 
 ### 2.5 南审PPT
 
-- [第一章 绪论](datastructure\ppt\第一章_绪论.pdf)
-- [第二章 线性表](datastructure\ppt\第二章_线性表2020.pdf)
-- [第三章 栈和队列](datastructure\ppt\第三章_栈和队列.pdf)
-- [第六章 树和二叉树 (上)](datastructure\ppt\第六章_树和二叉树 (上).pdf)
-- [第六章 树和二叉树 (中)](datastructure\ppt\第六章_树和二叉树 (中).pdf)
-- [第六章 树和二叉树 (应用)](datastructure\ppt\第六章_树和二叉树 (应用).pdf)
-- [第七章 图](datastructure\ppt\第七章_图.pdf)
-- [第九章 查找](datastructure\ppt\第九章_查找.pdf)
-- [第十章 内部排序](datastructure\ppt\第十章_内部排序(1).pdf)
+- [第一章 绪论](datastructure/ppt/第一章_绪论.pdf)
+- [第二章 线性表](datastructure/ppt/第二章_线性表2020.pdf)
+- [第三章 栈和队列](datastructure\ppt/第三章_栈和队列.pdf)
+- [第六章 树和二叉树 (上)](datastructure/ppt/第六章_树和二叉树(上).pdf)
+- [第六章 树和二叉树 (中)](datastructure\ppt/第六章_树和二叉树(中).pdf)
+- [第六章 树和二叉树 (应用)](datastructure/ppt/第六章_树和二叉树(应用).pdf)
+- [第七章 图](datastructure/ppt/第七章_图.pdf)
+- [第九章 查找](datastructure/ppt/第九章_查找.pdf)
+- [第十章 内部排序](datastructure/ppt/第十章_内部排序(1).pdf)
 
 ## 三、主干课复习
 
@@ -113,22 +113,22 @@
 
 #### 3.1.1 高中数学
 
-[预备知识](math\foundation\05_高中数学预备知识.pdf)
+[预备知识](math/foundation/05_高中数学预备知识.pdf)
 
 #### 3.1.2 高等数学
 
-- [笔记](.\math\AdvancedMath\笔记.pdf)
-- [曲线](math\AdvancedMath\每天一遍，高数再见！必备曲线.pdf)
+- [笔记](math/AdvancedMath/笔记.pdf)
+- [曲线](math/AdvancedMath/每天一遍，高数再见！必备曲线.pdf)
 
-- [解题技巧](math\AdvancedMath\小崔说数-高等数学解题技巧与注意点.pdf)
-- [中值定理](math\AdvancedMath\中值定理.pdf)
+- [解题技巧](math/AdvancedMath/小崔说数-高等数学解题技巧与注意点.pdf)
+- [中值定理](math/AdvancedMath/中值定理.pdf)
 
 #### 3.1.3 线性代数
 
-- [线性方程组专题](math\LinearAlgebra\线性方程组专题.pdf)
-- [相似 秩 逆 伴随 余子式求和、特征值与特征向量](math\LinearAlgebra\相似 秩 逆 伴随 余子式求和、特征值与特征向量.pdf)
-- [线性代数解题技巧与注意点](math\LinearAlgebra\小崔说数-线性代数解题技巧与注意点.pdf)
-- [易忘笔记](math\LinearAlgebra\易忘笔记.pdf)
+- [线性方程组专题](math/LinearAlgebra/线性方程组专题.pdf)
+- [相似 秩 逆 伴随 余子式求和、特征值与特征向量](math/LinearAlgebra/相似 秩 逆 伴随 余子式求和、特征值与特征向量.pdf)
+- [线性代数解题技巧与注意点](math/LinearAlgebra/小崔说数-线性代数解题技巧与注意点.pdf)
+- [易忘笔记](math/LinearAlgebra/易忘笔记.pdf)
 
 ### 3.2 政治
 
@@ -138,10 +138,10 @@
 
 关注[up主](https://space.bilibili.com/16671656?spm_id_from=333.337.0.0)，暑假回来复习都来得及，按照空卡的顺序过一遍视频，找一个靠谱的政治刷题小程序，每天刷肖老师的1000题（其他家的没含金量），看陆寓丰的技巧班，等到肖四肖八出来之后精刷，并且背诵主观题答案
 
-- [思维导图](politics\红果研_考研政治思维导图.pdf)
-- [毛主席著作](politics\毛主席著作.pdf)
-- [史纲会议](politics\史纲会议.pdf)
-- [思想解放](politics\思想解放.pdf)
+- [思维导图](politics/红果研_考研政治思维导图.pdf)
+- [毛主席著作](politics/毛主席著作.pdf)
+- [史纲会议](politics/史纲会议.pdf)
+- [思想解放](politics/思想解放.pdf)
 
 ### 3.3 英语
 
